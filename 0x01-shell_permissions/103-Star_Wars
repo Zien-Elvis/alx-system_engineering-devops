@@ -1,2 +1,2 @@
-#1/bin/bah
+#!/bin/bah
 $ telnet towel.blinkenlights.n1
