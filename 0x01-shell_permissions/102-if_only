@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from==betty guiillaume hello
+chown --from==guillaume betty hello
